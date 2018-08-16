@@ -1,0 +1,10 @@
+[{
+    "name":"Not Started",
+    "type":"NOT_STARTED"
+}, { 
+    "name":"Paused",
+    "type":"PAUSED"
+}, {
+    "name":"Implemented",
+    "type":"IMPLEMENTED"
+}]

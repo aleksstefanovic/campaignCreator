@@ -1,0 +1,10 @@
+[{
+    "name":"Lead Generation",
+    "type":"LEAD_GENERATION"
+}, { 
+    "name":"Conversions",
+    "type":"CONVERSIONS"
+}, {
+    "name":"Impressions",
+    "type":"IMPRESSIONS"
+}]

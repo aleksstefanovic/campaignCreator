@@ -1,0 +1,22 @@
+[{
+    "type":"SINGLE_IMAGE",
+    "templateName":"Single Image Ad",
+    "title":["Default Title"],
+    "adCopy":["Default text"],
+    "campaignObjective":"LEAD_GENERATION",
+    "imageCount":1
+}, {
+    "type":"MULTI_IMAGE_CAROUSEL",
+    "templateName":"Multi Image Carousel Ad",
+    "title":["Default Title1", "Default Title2", "Default Titlet3"],
+    "adCopy":["Default Text1", "Default Text2", "Default Text3"],
+    "campaignObjective":"CONVERSIONS",
+    "imageCount":3
+}, {
+    "type":"MULTI_IMAGE_SLIDER",
+    "templateName":"Multi Image Slider Ad",
+    "title":["Default Title1", "Default Title2", "Default Titlet3"],
+    "adCopy":["Default Text1", "Default Text2", "Default Text3"],
+    "campaignObjective":"IMPRESSIONS",
+    "imageCount":3
+}]
